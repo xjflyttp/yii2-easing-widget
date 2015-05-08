@@ -1,0 +1,20 @@
+{
+    "name": "xj/yii2-easing-widget",
+    "description": "yii2-easing-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/jquery.easing": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\js\\easing\\": ""
+        }
+    }
+}
