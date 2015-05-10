@@ -11,6 +11,8 @@ composer.json
 },
 ```
 
+View
+---
 ```php
 xj\js\easing\EasingAsset::register($this);
 ```
